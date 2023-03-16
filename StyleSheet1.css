@@ -1,0 +1,137 @@
+﻿body {
+  height: 100vh;
+  width: 100%;
+  background: #e1faf9;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+div {
+  
+  height: 150px;
+  width: 150px;
+  background: #fff;
+  border-radius: 15px;
+  margin: 15px;
+  transition: all ease 0.2s;
+}
+.area {
+    display: grid;
+    gap: 4rem;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.box {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+
+
+}
+.box2 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+.box2:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+  
+}
+.box3 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+
+    .box3:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    }
+.box4 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+
+    .box4:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    }
+.box5 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+    .box5:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    }
+.box6 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+
+    .box6:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    }
+.box7 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+
+    .box7:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    }
+.box8 {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    background: #3d9e8b;
+}
+img {
+    width: 150px;
+    height: 100px;
+}
+
+    .box8:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+    }
